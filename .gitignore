@@ -1,0 +1,66 @@
+*.lst
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Lst file
+*.lst
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Gradle template
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# IDEA files
+.idea/
+
+# When running the demo we generate the extensions folder
+/extensions/
+/.mixin.out/
+
+# When compiling we get a docs folder
+/docs
+.mixin.out/
+
+# Maven archive
+*/maven-archiver/
+/maven-archiver/
+**/maven-archiver/
+*/maven-archiver/**
+
+# Targets
+/target/
+**/target/
+*/target/**
+**/META-INF/
+
+
