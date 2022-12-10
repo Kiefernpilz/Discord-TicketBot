@@ -13,7 +13,7 @@
 
 ### Feedback
 
-+ **[Discord](https://discord.gg/z2nXkjWv)**
++ **[Discord](https://discord.gg/3uTS3EPm3c)**
 + **[VK](https://vk.com/Kiefernpilz)**
 
 ---
